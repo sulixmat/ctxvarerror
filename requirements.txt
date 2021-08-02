@@ -1,0 +1,6 @@
+aiogram
+aioredis
+aiomysql
+asyncssh
+alive-progress
+pymysql
